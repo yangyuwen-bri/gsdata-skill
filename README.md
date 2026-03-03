@@ -129,8 +129,9 @@ python3 ./gsdata_adapter.py invoke \
 ```
 
 ## Files
-- `SKILL.md`: The primary instructions for the Agent.
+- `SKILL.md`: The primary instructions for the Agent with OpenClaw metadata.
 - `gsdata_adapter.py`: The local python adapter that handles API routing and authentication.
 - `gsdata_tool_mapping_v1.json`: The endpoint mapping definitions.
 - `example_api_responses.log`: Full, uncut raw JSON responses from our sandbox testing, serving as a data reference.
 - `test_sandbox.sh`: Script for local verification of credentials and API endpoints.
+- `LICENSE`: The open source MIT License for this project.

@@ -1,5 +1,8 @@
 ---
 name: gsdata
+version: 1.0.0
+author: yangyuwen-bri
+license: MIT
 description: |
   Use GSData open platform via local adapter script for account/content/rank/pubsent/nlp queries.
   Use when user asks for 舆情检索、热点事件、平台榜单、账号数据、小红书/微博/抖音等数据查询。
